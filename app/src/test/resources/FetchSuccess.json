@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "id": 111,
+      "name": "Ruben",
+      "email": "rbn_quadros@rediffmail.com",
+      "username": "ruben",
+      "contact": 8762551753,
+      "image_url": "https://ticketpicuploads.sgp1.digitaloceanspaces.com/media/1566988484006-IMG-20190828-WA0002.jpg"
+    }
+  ],
+  "metadata": {
+    "response_code": 200,
+    "response_text": "Data Query for users by username success"
+  }
+}

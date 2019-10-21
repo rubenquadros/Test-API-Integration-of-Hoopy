@@ -1,0 +1,14 @@
+{
+  "data": {
+    "id": 110,
+    "name": "various poddy",
+    "email": "various@shdb.com",
+    "contact": "888938827",
+    "username": "various",
+    "image_url": "https://ticketpicuploads.sgp1.digitaloceanspaces.com/media/1566988484006-IMG-20190828-WA0002.jpg"
+  },
+  "metadata": {
+    "response_code": 200,
+    "response_text": "User Data Inserted"
+  }
+}

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">API Test</string>
+    <string name="email_hint">you@gmail.com</string>
+    <string name="pass_hint">XXXXXX</string>
+    <string name="all_fields">Please enter all the fields</string>
+    <string name="any_field">Please enter any one of the fields only</string>
+    <string name="name_hint">Hoopy Hoopy</string>
+    <string name="phone_hint">9883187635</string>
+    <string name="username_hint">user1234</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="camera_permission">Please allow permission to access camera</string>
+    <string name="ok">OK</string>
+    <string name="generic_err">Something went wrong. Please try again later</string>
+    <string name="invalid_email">Please enter a valid E-Mail</string>
+    <string name="invalid_name">Name cannot contain digits</string>
+    <string name="invalid_number">Please enter a valid 10 digit mobile number</string>
+    <string name="insert_data">Insert Data</string>
+    <string name="fetch_data">Fetch Data</string>
+    <string name="home">Home</string>
+    <string name="save">Save</string>
+    <string name="insert_succ">Insert Success!</string>
+    <string name="insert_succ_msg">Data has been inserted successfully</string>
+    <string name="update_data">Update Data</string>
+    <string name="update_succ">Update Success!</string>
+    <string name="update_succ_msg">Data has been updated successfully</string>
+</resources>
